@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class GameManager : MonoBehaviour {
-    public static int PartyMax = 3;
+    public static int PartyMax = 5;
     public static List<Character> Party;
 	// Use this for initialization
 	void Start () {
